@@ -1,0 +1,12 @@
+Usaremos a recurão na pesquisa binária com base na classe array
+
+Requisitos para a nossa função recursiva direta:
+1 - Caso Base: Se a  chave  for encontrada no elemento do meio, o processo será encerrado.
+2 - Chamada recursiva:
+- Divida o espaço de busca em duas metades encontrando o índice do meio “mid”. 
+- Compare o elemento do meio do espaço de busca com a chave.
+
+Fluxo alternativo:
+- Se a  chave  não for encontrada no elemento do meio, escolha qual metade será usada como o próximo espaço de busca.
+    - Se a  chave  for menor que o elemento do meio, o  lado esquerdo  será usado para a próxima pesquisa.
+    - Se a  chave  for maior que o elemento do meio, o  lado direito  será usado para a próxima pesquisa.
