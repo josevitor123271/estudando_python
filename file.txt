@@ -10,3 +10,10 @@ Fluxo alternativo:
 - Se a  chave  não for encontrada no elemento do meio, escolha qual metade será usada como o próximo espaço de busca.
     - Se a  chave  for menor que o elemento do meio, o  lado esquerdo  será usado para a próxima pesquisa.
     - Se a  chave  for maior que o elemento do meio, o  lado direito  será usado para a próxima pesquisa.
+
+///////////////////////////////////////////////////////////////////////////////
+# def bubble_sort()
+# def insertion_sort()
+# def selection_sort()
+# def quick_sort()
+# def merge_sort()
